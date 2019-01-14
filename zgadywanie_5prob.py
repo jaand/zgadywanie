@@ -28,6 +28,10 @@ def play_game():
             if continue_game == "Y":
                 print("--" * 42)
                 play_game()
+
+
+
+
             else:
                 print("Thanks for playing :)")
                 exit(0)
